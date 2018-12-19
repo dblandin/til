@@ -11,8 +11,9 @@ missing version of OpenSSL. At the time, I had OpenSSL `v1.1.1a` installed.
 
 Here's what the installation output looked like on my system:
 
-<details><summary>Expand output</summary>
-<p>
+<details>
+ <summary>Expand output</summary>
+
 
 ```bash
 $ ruby-install ruby 2.3.7
@@ -67,7 +68,7 @@ make[1]: Leaving directory '/home/devon/src/ruby-2.3.7'
 make: *** [uncommon.mk:203: build-ext] Error 2
 !!! Compiling ruby 2.3.7 failed!
 ```
-</p>
+
 </details>
 <br/>
 
