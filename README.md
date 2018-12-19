@@ -2,11 +2,21 @@
 
 This is a collection of short articles about things I have learned.
 
-_0 TILs and counting..._
+_1 TILs and counting..._
 
 ---
 
 ### Categories
+
+- [Ruby](#ruby)
+
+---
+
+### Ruby
+
+- [Install Ruby 2.3.x](ruby/install-ruby-2-3-x.md)
+
+---
 
 ### License
 
