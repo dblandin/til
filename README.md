@@ -10,5 +10,6 @@ _0 TILs and counting..._
 
 ### License
 
-This project is released under the [MIT
-License](http://www.opensource.org/licenses/MIT).
+This project is released under the [MIT License][].
+
+[MIT License]: http://www.opensource.org/licenses/MIT
