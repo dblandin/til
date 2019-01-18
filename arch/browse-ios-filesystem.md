@@ -27,7 +27,7 @@ sudo chown devon:devon /media/iphone
 ifuse /media/iphone/
 ```
 
-Now you can browser the filesystem at `/media/iphone`
+Now you can browser the filesystem at `/media/iphone`.
 
 Unmount the filesystem before unplugging:
 
