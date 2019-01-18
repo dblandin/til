@@ -8,9 +8,14 @@ _1 TILs and counting..._
 
 ### Categories
 
+- [Arch Linux](#arch-linux)
 - [Ruby](#ruby)
 
 ---
+
+### Arch Linux
+
+- [Repair corrupted m4a audio files](arch/repair-corrupted-m4a-audio-files.md)
 
 ### Ruby
 
