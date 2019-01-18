@@ -16,6 +16,7 @@ _1 TILs and counting..._
 ### Arch Linux
 
 - [Repair corrupted m4a audio files](arch/repair-corrupted-m4a-audio-files.md)
+- [Browse iOS filesystem](arch/browse-ios-filesystem.md)
 
 ### Ruby
 
